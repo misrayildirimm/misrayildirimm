@@ -1,67 +1,111 @@
-<h1 align="center" style="color: #A020F0;">Hey there! 👋 I'm Mısra Yıldırım</h1>
-<h3 align="center" style="color: #A020F0;">🚀 Data Scientist | Machine Learning Enthusiast | AI Explorer</h3>
+<div align="center">
+  
+# <span style="color: #8A2BE2;">Hey there! 👋 I'm Mısra Yıldırım</span>
 
+### <span style="color: #8A2BE2;">🚀 Data Scientist | Machine Learning Enthusiast | AI Explorer</span>
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Woman">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+ML+Engineer;AI+Explorer+%26+Problem+Solver;Turning+Data+into+Stories+%F0%9F%93%8A%E2%9C%A8)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> About Me
+
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250">
+
+🎯 **Passionate** about Machine Learning, Data Science, and AI Applications  
+📊 **Experienced** in Recommendation Systems, CRM Analysis, NLP, and Image Processing  
+🔍 **Skilled** in model optimization, feature engineering, and no-code integrations  
+🌱 **Currently exploring** LLM models & advanced AI techniques  
+💬 **Ask me about:** Python, ML/DL, NLP, Data Analysis  
+🎨 **Fun fact:** I turn datasets into stories 📈✨  
+
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack
+
+<details>
+<summary><b>🐍 Languages & Core Libraries</b></summary>
+<br>
 <p align="center">
-  <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="300">
-</p>
-
----
-
-### 🌟 About Me  
-- 🎯 Passionate about **Machine Learning, Data Science, and AI Applications**  
-- 📊 Experienced in **Recommendation Systems, CRM Analysis, NLP, and Image Processing**  
-- 🔍 Skilled in **model optimization, feature engineering, and no-code integrations**  
-- 🌱 Currently exploring **LLM models & advanced AI techniques**  
-- 💬 Ask me about: **Python, ML/DL, NLP, Data Analysis**  
-- 🎨 Fun fact: I turn datasets into stories 📈✨  
-
----
-
-## 🛠️ Tech Stack  
-
-### **Languages & Libraries**
-<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
+</details>
 
-### **Machine Learning / AI**
-<p>
+<details>
+<summary><b>🤖 Machine Learning & AI</b></summary>
+<br>
+<p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Transformers-FFD700?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge"/>
 </p>
+</details>
 
-### **Tools & Platforms**
-<p>
+<details>
+<summary><b>🛠️ Tools & Platforms</b></summary>
+<br>
+<p align="center">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white"/>
   <img src="https://img.shields.io/badge/Make.com-2F2E41?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Landbot-FF7F50?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
+</details>
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=misrayildirim&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=misrayildirim&theme=tokyonight" height="150"/>
-</p>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=misrayildirim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=misrayildirim&theme=tokyonight&hide_border=true" height="180"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misrayildirim&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="200"/>
+</div>
 
 ---
 
-## 📫 Connect with me  
-<p>
-  <a href="https://www.linkedin.com/in/misrayildirim/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:misrayildirim@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24"> Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/misrayildirim/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:misrayildirim@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/misrayildirim)
+
+</div>
 
 ---
-⭐️ From [Mısra Yıldırım](https://github.com/misrayildirim)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+  
+  **"Data is the new oil, but insights are the refined fuel that drives innovation"** 🚀
+  
+  <sub>⭐️ From [Mısra Yıldırım](https://github.com/misrayildirim) with 💜</sub>
+</div>
