@@ -1,8 +1,8 @@
 <div align="center">
   
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1000&pause=1000&color=9932CC&center=true&vCenter=true&width=800&lines=Hey+there!+%F0%9F%91%8B+I" alt="Typing SVG" /> **'m Mısra Yıldırım**
+# <span style="color: #9932CC; font-size: 35px;">Hey there! 👋 I</span>**<span style="color: #9932CC;">'m Mısra Yıldırım</span>**
 
-### **🚀 Data Scientist | Machine Learning Engineer | AI Explorer**
+### **<span style="color: #9932CC;">🚀 Data Scientist | Machine Learning Engineer | AI Explorer</span>**
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Woman">
 
