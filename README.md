@@ -2,12 +2,12 @@
 <h3 align="center" style="color: #A020F0;">🚀 Data Scientist | Machine Learning Enthusiast | AI Explorer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="300">
+  <img src="KENDİ_SEÇTİĞİN_GIF_LINKİ" width="300" alt="Woman coding GIF">
 </p>
 
 ---
 
-### 🌟 About Me  
+### ​ About Me  
 - 🎯 Passionate about **Machine Learning, Data Science, and AI Applications**  
 - 📊 Experienced in **Recommendation Systems, CRM Analysis, NLP, and Image Processing**  
 - 🔍 Skilled in **model optimization, feature engineering, and no-code integrations**  
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## ​​ Tech Stack  
 
 ### **Languages & Libraries**
 <p>
@@ -49,7 +49,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## ​ GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=misrayildirim&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=misrayildirim&theme=tokyonight" height="150"/>
@@ -57,7 +57,7 @@
 
 ---
 
-## 📫 Connect with me  
+## ​ Connect with me  
 <p>
   <a href="https://www.linkedin.com/in/misrayildirim/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:misrayildirim@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
