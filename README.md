@@ -2,7 +2,7 @@
 <h3 align="center" style="color: #A020F0;">🚀 Data Scientist | Machine Learning Enthusiast | AI Explorer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="300">
 </p>
 
 ---
