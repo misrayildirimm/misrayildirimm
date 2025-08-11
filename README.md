@@ -2,7 +2,7 @@
 <h3 align="center" style="color: #A020F0;">🚀 Data Scientist | Machine Learning Enthusiast | AI Explorer</h3>
 
 <p align="center">
-  <img src="KENDİ_SEÇTİĞİN_GIF_LINKİ" width="300" alt="Woman coding GIF">
+  <img src="(https://tenor.com/tr/view/cat-computer-typing-fast-gif-5368357)" width="300" alt="Woman coding GIF">
 </p>
 
 ---
