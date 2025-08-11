@@ -2,7 +2,7 @@
 <h3 align="center" style="color: #A020F0;">🚀 Data Scientist | Machine Learning Enthusiast | AI Explorer</h3>
 
 <p align="center">
-  <img src="https://tenor.com/tr/view/cat-computer-typing-fast-gif-5368357" width="300">
+  <img src="https://tenor.com/view/cat-computer-typing-fast-gif-5368357" width="300" alt="Fast typing cat at computer GIF">
 </p>
 
 ---
@@ -60,7 +60,7 @@
 ## ​ Connect with me  
 <p>
   <a href="https://www.linkedin.com/in/misrayildirim/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:misrayildirim@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:misrayildirim@example.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
