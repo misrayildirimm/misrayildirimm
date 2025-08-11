@@ -1,8 +1,8 @@
-<h1 align="center">Hey there! 👋 I'm Mısra Yıldırım</h1>
-<h3 align="center">🚀 Data Scientist | Machine Learning Enthusiast | AI Explorer</h3>
+<h1 align="center" style="color: #A020F0;">Hey there! 👋 I'm Mısra Yıldırım</h1>
+<h3 align="center" style="color: #A020F0;">🚀 Data Scientist | Machine Learning Enthusiast | AI Explorer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width="300">
 </p>
 
 ---
