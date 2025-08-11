@@ -4,7 +4,7 @@
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Data+Scientist+%7C+Machine+Learning+Enthusiast+%7C+AI+Explorer" alt="Typing SVG" />
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Woman Coding">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" alt="Woman Coding on Laptop">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+ML+Engineer;AI+Explorer+%26+Problem+Solver;Turning+Data+into+Stories+%F0%9F%93%8A%E2%9C%A8)](https://git.io/typing-svg)
 
