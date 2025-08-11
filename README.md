@@ -1,10 +1,10 @@
 <div align="center">
   
-# <span style="color: #8A2BE2;">Hey there! 👋 I'm Mısra Yıldırım</span>
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1000&pause=1000&color=9932CC&center=true&vCenter=true&width=800&lines=Hey+there!+%F0%9F%91%8B+I'm+M%C4%B1sra+Y%C4%B1ld%C4%B1r%C4%B1m" alt="Typing SVG" />
 
-### <span style="color: #8A2BE2;">🚀 Data Scientist | Machine Learning Enthusiast | AI Explorer</span>
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Data+Scientist+%7C+Machine+Learning+Enthusiast+%7C+AI+Explorer" alt="Typing SVG" />
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Woman">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" alt="Woman Coding on Laptop">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+ML+Engineer;AI+Explorer+%26+Problem+Solver;Turning+Data+into+Stories+%F0%9F%93%8A%E2%9C%A8)](https://git.io/typing-svg)
 
@@ -18,20 +18,43 @@
 
 🎯 **Passionate** about Machine Learning, Data Science, and AI Applications  
 📊 **Experienced** in Recommendation Systems, CRM Analysis, NLP, and Image Processing  
-🔍 **Skilled** in model optimization, feature engineering, and no-code integrations  
+💻 **Full-Stack Developer** with expertise in JavaScript, C#, and ASP.NET  
+🔍 **Skilled** in model optimization, feature engineering, and web development  
 🌱 **Currently exploring** LLM models & advanced AI techniques  
-💬 **Ask me about:** Python, ML/DL, NLP, Data Analysis  
-🎨 **Fun fact:** I turn datasets into stories 📈✨  
+💬 **Ask me about:** Python, JavaScript, C#, ML/DL, NLP, Web Development  
+🎨 **Fun fact:** I bridge the gap between data science and web development 🌉✨  
 
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack
 
 <details>
-<summary><b>🐍 Languages & Core Libraries</b></summary>
+<summary><b>💻 Programming Languages</b></summary>
 <br>
 <p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+</details>
+
+<details>
+<summary><b>🎨 Frontend & Web Technologies</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+</p>
+</details>
+
+<details>
+<summary><b>📊 Data Science & ML Libraries</b></summary>
+<br>
+<p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
