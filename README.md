@@ -6,7 +6,7 @@
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Woman">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+ML+Engineer;AI+Explorer+%26+Problem+Solver;Turning+Data+into+Stories+%F0%9F%93%8A%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Turning+Data+into+Stories+%F0%9F%93%8A%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
