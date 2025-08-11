@@ -1,6 +1,6 @@
 <div align="center">
   
-# <span style="color: #9932CC; font-size: 35px;">Hey there! 👋 I</span>**<span style="color: #9932CC;">'m Mısra Yıldırım</span>**
+# **<span style="color: #9932CC;">Hey there! 👋 I'm Mısra Yıldırım</span>**
 
 ### **<span style="color: #9932CC;">🚀 Data Scientist | Machine Learning Engineer | AI Explorer</span>**
 
