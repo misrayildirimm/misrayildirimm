@@ -128,7 +128,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
   
-  **"Data is the new oil, but insights are the refined fuel that drives innovation"** 🚀
+  **"Data is the fuel of AI; insight is the route to innovation."** 🚀
   
   <sub>⭐️ From [Mısra Yıldırım](https://github.com/misrayildirimm) with 💜</sub>
 </div>
